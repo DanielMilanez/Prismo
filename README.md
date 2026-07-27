@@ -198,4 +198,5 @@ Arquitetura:
 
 ---
 <h3>Licença</h3>
+
 Projeto pessoal desenvolvido para uso pessoal e portfólio. `PRISMO © 2026`
