@@ -26,13 +26,23 @@ Não quero criar apenas um papel digital. Quero criar um `prisma` que, ao olhar 
 
 Então, acompanhe-me em [meu canal no YouTube](https://www.youtube.com/@mitchzito) para saber mais sobre esse projeto!
 
-
-### Tecnologias utilizadas
-
-| Categoria             | Tecnologia                                          |
-|-----------------------|-----------------------------------------------------|
-| **Linguagem**         | Python 3.10+                                        |
-| **Interface Gráfica** | PySide6 (Qt for Python)                             |
+<div align="center">
+   <h3>Tecnologias utilizadas</h3>
+   <table>
+      <tr>
+         <th>Categoria</th>
+         <th>Tecnologia</th>
+      </tr>
+      <tr>
+         <td><b>Linguagem</b></td>
+         <td>Python 3.10+</td>
+      </tr>
+      <tr>
+         <td><b>Interface Gráfica</b></td>
+         <td>PySide6 (Qt for Python)</td>
+      </tr>
+   </table>
+</div>
 
 ### Recursos Planejados
 
@@ -183,9 +193,9 @@ Arquitetura:
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=O+PRISMO+n%C3%A3o+%C3%A9+apenas+um+papel+digital.;Ele+%C3%A9+um+prisma+que;ao+olhar+atrav%C3%A9s+dele,+permite+que+voc%C3%AA;enxergue+suas+ideias+mais+loucas.&font=Fira%20Code&center=true&color=64F58E&width=1000&height=50&duration=4000&pause=1000" alt="PRISMO">
+  <img src="https://readme-typing-svg.demolab.com/?lines=O+PRISMO+n%C3%A3o+%C3%A9+apenas+um+papel+digital.;Ele+%C3%A9+um+prisma+que+ao+olhar+atrav%C3%A9s+dele;permite+que+voc%C3%AA+enxergue+suas+ideias+mais+loucas.&font=Fira%20Code&center=true&color=FF392F&width=1000&height=50&duration=4000&pause=500" alt="PRISMO">
 </p>
 
-## Licença
-
+---
+<h3>Licença</h3>
 Projeto pessoal desenvolvido para uso pessoal e portfólio. `PRISMO © 2026`
