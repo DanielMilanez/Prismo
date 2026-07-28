@@ -193,7 +193,7 @@ Arquitetura:
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=O+PRISMO+n%C3%A3o+%C3%A9+apenas+um+papel+digital.;Ele+%C3%A9+um+prisma+que+ao+olhar+atrav%C3%A9s+dele;permite+que+voc%C3%AA+enxergue+suas+ideias+mais+loucas.&font=Fira%20Code&center=true&color=FF392F&width=1000&height=50&duration=4000&pause=500" alt="PRISMO">
+  <img src="https://readme-typing-svg.demolab.com/?lines=O+PRISMO+n%C3%A3o+%C3%A9+apenas+um+papel+digital.;Ele+%C3%A9+um+prisma+que+quando+voc%C3%AA+olha+atrav%C3%A9s+dele;permite+que+voc%C3%AA+enxergue+suas+ideias+mais+loucas.&font=Fira%20Code&center=true&color=FF392F&width=1000&height=50&duration=4000&pause=500" alt="PRISMO">
 </p>
 
 ---
